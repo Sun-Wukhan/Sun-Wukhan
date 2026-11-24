@@ -25,7 +25,7 @@ currently  reviving Terraformer, hunting bugs with property-based tests
 
 - 🔧 Platform and DevOps engineering: cloud infrastructure, Kubernetes, and the tooling around them
 - 🐹 Mostly Go, Python, and TypeScript these days
-- 🌍 Open-source contributor with merged PRs in projects like **external-dns**, **KubeVirt**, **emissary-ingress**, **rclone**, and **Prometheus**
+- 🌍 Open-source contributor with merged PRs in projects like **external-dns**, **Argo CD**, **emissary-ingress**, **rclone**, **Prometheus**, and **Storybook**
 - 🛠️ I like tools that catch real bugs: property-based testing, security scanning, and CI gates
 - 🎯 Current focus: making infrastructure imports and CI checks boringly reliable
 
