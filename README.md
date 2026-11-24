@@ -1,12 +1,23 @@
 <div align="center">
 
-# Hi there, I'm Navid Khan 👋
+<img src="assets/banner.svg" alt="Navid Khan: Platform / DevOps Engineer, Open Source Contributor, Toronto" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=560&lines=Platform+%2F+DevOps+Engineer;Open+Source+Contributor;Terraform+%26+Kubernetes+tinkerer;Building+tools+that+ship" alt="Typing SVG" />
 
-**Platform / DevOps engineer in Toronto 🇨🇦 — I build infrastructure tooling, revive abandoned projects, and contribute to open source.**
+**Platform / DevOps engineer in Toronto 🇨🇦, building infrastructure tooling, reviving abandoned projects, and contributing to open source.**
 
 </div>
+
+```console
+$ whoami
+navid-khan
+$ navid --summary
+role       Platform / DevOps Engineer
+location   Toronto, Canada
+code       Go · Python · TypeScript
+focus      Terraform, Kubernetes, CI gates, open source tooling
+currently  reviving Terraformer, hunting bugs with property-based tests
+```
 
 ---
 
@@ -18,13 +29,46 @@
 - 🛠️ I like tools that catch real bugs: property-based testing, security scanning, and CI gates
 - 🎯 Current focus: making infrastructure imports and CI checks boringly reliable
 
+## 🏆 Upstream, Merged
+
+Pull requests I have landed in other people's projects, verified against the GitHub API:
+
+<div align="center">
+
+![Upstream PRs merged](https://img.shields.io/badge/Upstream_PRs_merged-12%2B-9ece6a?style=for-the-badge)
+![GitHub Marketplace actions](https://img.shields.io/badge/GitHub_Marketplace_actions-2-bb9af7?style=for-the-badge)
+![Terraformer v1.0.5 shipping](https://img.shields.io/badge/Terraformer-v1.0.5_shipping-7aa2f7?style=for-the-badge)
+
+</div>
+
+| Project | Merged PRs |
+| --- | --- |
+| [![external-dns](https://img.shields.io/badge/external--dns-2_merged-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://github.com/kubernetes-sigs/external-dns) | [#6790](https://github.com/kubernetes-sigs/external-dns/pull/6790) · [#6791](https://github.com/kubernetes-sigs/external-dns/pull/6791) |
+| [![Argo CD](https://img.shields.io/badge/Argo_CD-3_merged-EF7B4D?style=flat-square&logo=argo&logoColor=white)](https://github.com/argoproj/argo-cd) | [#30572](https://github.com/argoproj/argo-cd/pull/30572) · [#30855](https://github.com/argoproj/argo-cd/pull/30855) · [#30884](https://github.com/argoproj/argo-cd/pull/30884) |
+| [![Emissary](https://img.shields.io/badge/Emissary-1_merged-A8252F?style=flat-square)](https://github.com/emissary-ingress/emissary) | [#6015](https://github.com/emissary-ingress/emissary/pull/6015) |
+| [![rclone](https://img.shields.io/badge/rclone-2_merged-3ABBF0?style=flat-square&logo=rclone&logoColor=white)](https://github.com/rclone/rclone) | [#10206](https://github.com/rclone/rclone/pull/10206) · [#10289](https://github.com/rclone/rclone/pull/10289) |
+| [![Prometheus](https://img.shields.io/badge/Prometheus-1_merged-E6522C?style=flat-square&logo=prometheus&logoColor=white)](https://github.com/prometheus/prometheus) | [#20302](https://github.com/prometheus/prometheus/pull/20302) |
+| [![Storybook](https://img.shields.io/badge/Storybook-2_merged-FF4785?style=flat-square&logo=storybook&logoColor=white)](https://github.com/storybookjs/storybook) | [#37348](https://github.com/storybookjs/storybook/pull/37348) · [#37374](https://github.com/storybookjs/storybook/pull/37374) |
+| [![Nx](https://img.shields.io/badge/Nx-1_merged-143055?style=flat-square&logo=nx&logoColor=white)](https://github.com/nrwl/nx) | [#37860](https://github.com/nrwl/nx/pull/37860) |
+
 ## 🚀 Featured Projects
 
-- **[Terraformer](https://github.com/Sun-Wukhan/terraformer)** — revived fork of Google's archived Terraformer (reverse Terraform: import existing cloud resources into HCL + state). Releases shipping, GCP / AWS / Azure coverage rebuilt
-- **[pickle-sentry](https://github.com/Sun-Wukhan/pickle-sentry)** — scanner that catches dangerous pickle deserialization in ML models and codebases. On PyPI and the GitHub Marketplace
-- **[pbt-sentry](https://github.com/Sun-Wukhan/pbt-sentry)** — property-based test runner as a GitHub Action: deterministic seed ranges, deduped failure signatures, exact repro commands
-- **[semantic-gate](https://github.com/Sun-Wukhan/semantic-gate)** — CI gate for semantic drift in dbt projects: catches definition changes that alter meaning without changing schema
-- **[peer-trust-network](https://github.com/Sun-Wukhan/peer-trust-network)** — peer-to-peer trust network: Web-of-Trust PKI with in-person attestations and a public trust score
+- **[Terraformer](https://github.com/Sun-Wukhan/terraformer)**: revived fork of Google's archived Terraformer (reverse Terraform: import existing cloud resources into HCL + state). Releases shipping, GCP / AWS / Azure coverage rebuilt
+- **[pickle-sentry](https://github.com/Sun-Wukhan/pickle-sentry)**: scanner that catches dangerous pickle deserialization in ML models and codebases. On PyPI and the GitHub Marketplace
+- **[pbt-sentry](https://github.com/Sun-Wukhan/pbt-sentry)**: property-based test runner as a GitHub Action: deterministic seed ranges, deduped failure signatures, exact repro commands
+- **[semantic-gate](https://github.com/Sun-Wukhan/semantic-gate)**: CI gate for semantic drift in dbt projects: catches definition changes that alter meaning without changing schema
+- **[peer-trust-network](https://github.com/Sun-Wukhan/peer-trust-network)**: peer-to-peer trust network: Web-of-Trust PKI with in-person attestations and a public trust score
+
+<table>
+  <tr>
+    <td><a href="https://github.com/Sun-Wukhan/terraformer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sun-Wukhan&repo=terraformer&theme=tokyonight" alt="Terraformer repo card" /></a></td>
+    <td><a href="https://github.com/Sun-Wukhan/pickle-sentry"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sun-Wukhan&repo=pickle-sentry&theme=tokyonight" alt="pickle-sentry repo card" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Sun-Wukhan/pbt-sentry"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sun-Wukhan&repo=pbt-sentry&theme=tokyonight" alt="pbt-sentry repo card" /></a></td>
+    <td><a href="https://github.com/Sun-Wukhan/semantic-gate"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sun-Wukhan&repo=semantic-gate&theme=tokyonight" alt="semantic-gate repo card" /></a></td>
+  </tr>
+</table>
 
 ---
 
@@ -122,12 +166,24 @@
 
 </div>
 
+## 👾 Pac-Man Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sun-Wukhan/Sun-Wukhan/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sun-Wukhan/Sun-Wukhan/output/pacman-contribution-graph.svg" />
+  <img alt="Pac-Man eating my contributions" src="https://raw.githubusercontent.com/Sun-Wukhan/Sun-Wukhan/output/pacman-contribution-graph.svg" />
+</picture>
+
+</div>
+
 ---
 
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Sun-Wukhan&style=flat-square&color=blue" alt="Profile views" />
 
-**Thanks for stopping by — the snake ate my contributions, but the PRs are real.** 🐍
+**Thanks for stopping by. The snake ate my contributions, but the PRs are real.** 🐍
 
 </div>
