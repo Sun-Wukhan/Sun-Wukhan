@@ -1,1 +1,18 @@
-{"board":["","","","","","","","",""],"draws":0,"game_number":1,"last_move":"","turn":"X","wins":{}}
+{
+  "board": [
+    "",
+    "",
+    "",
+    "",
+    "X",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "draws": 0,
+  "game_number": 1,
+  "last_move": "@Sun-Wukhan took B2 as X",
+  "turn": "O",
+  "wins": {}
+}
