@@ -1,6 +1,6 @@
 {
   "board": [
-    "",
+    "X",
     "",
     "",
     "",
@@ -12,7 +12,7 @@
   ],
   "draws": 0,
   "game_number": 1,
-  "last_move": "@okclifto took C3 as O",
-  "turn": "X",
+  "last_move": "@Sun-Wukhan took A1 as X",
+  "turn": "O",
   "wins": {}
 }
