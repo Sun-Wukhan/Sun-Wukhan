@@ -21,7 +21,7 @@ $ navid --summary
 roles      QA Automation · DevOps · Developer · ML/AI · Architect
 also       FinOps and platform engineering across all of it
 location   Toronto, Canada
-code       Go · Python · TypeScript
+code       Go · Python · TypeScript · Java
 focus      Terraform, Kubernetes, test automation, cloud cost, AI tooling
 currently  reviving Terraformer, hunting bugs with property-based tests
 ```
@@ -85,38 +85,104 @@ Pull requests I have landed in other people's projects, verified against the Git
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### 💻 Languages & Frameworks
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### ☁️ Cloud & Platforms
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Terragrunt](https://img.shields.io/badge/Terragrunt-5C4EE5?style=for-the-badge)
+![FinOps](https://img.shields.io/badge/FinOps-7aa2f7?style=for-the-badge)
 
-### 🔧 Tools & Platforms
+### 🚀 CI/CD & GitOps
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge)
+![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Flux](https://img.shields.io/badge/Flux-5468FF?style=for-the-badge&logo=flux&logoColor=white)
 
-### 🧪 QA, FinOps & AI/ML
+### 🧪 Testing & Quality
 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=black)
+![TestNG](https://img.shields.io/badge/TestNG-D22128?style=for-the-badge)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge)
+![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
+
+### 📈 Observability
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![PagerDuty](https://img.shields.io/badge/PagerDuty-06AC38?style=for-the-badge&logo=pagerduty&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F46800?style=for-the-badge)
+
+### 🗄️ Data & Messaging
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge)
+
+### 🤖 ML/AI & MLOps
+
+![scikit-learn](https://img.shields.io/badge/scikit-learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![FinOps](https://img.shields.io/badge/FinOps-7aa2f7?style=for-the-badge)
-![RAG and LLMs](https://img.shields.io/badge/RAG_%26_LLMs-bb9af7?style=for-the-badge)
+![Kubeflow](https://img.shields.io/badge/Kubeflow-326CE5?style=for-the-badge)
+![XGBoost](https://img.shields.io/badge/XGBoost-E80130?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
+![RAG & LLMs](https://img.shields.io/badge/RAG_&_LLMs-bb9af7?style=for-the-badge)
+![LoRA / QLoRA](https://img.shields.io/badge/LoRA_/_QLoRA-7aa2f7?style=for-the-badge)
+
+### 🔧 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Kustomize](https://img.shields.io/badge/Kustomize-326CE5?style=for-the-badge)
+![Vault](https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+## 📜 Certifications
+
+[![PMP](https://img.shields.io/badge/PMP-004B8D?style=for-the-badge)](https://www.credly.com/badges/ef685ac4-e0f7-4ec8-bac5-38a4ae4b6509/public_url)
+[![Google Professional Cloud Architect](https://img.shields.io/badge/Google_Professional_Cloud_Architect-4285F4?style=for-the-badge)](https://google.accredible.com/621b86af-732e-4df1-919b-ee7c7ee250cb)
+[![Azure Solutions Architect Expert AZ-305](https://img.shields.io/badge/Azure_Solutions_Architect_Expert_AZ--305-0078D4?style=for-the-badge)](https://www.credly.com/badges/09fa2150-0c0c-40cb-b1a6-3563835d6d83/public_url)
+[![Azure Administrator AZ-104](https://img.shields.io/badge/Azure_Administrator_AZ--104-0078D4?style=for-the-badge)](https://learn.microsoft.com/en-us/users/alikhan-9532/credentials/7fe09ed0ea4478f4?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+[![Azure Fundamentals AZ-900](https://img.shields.io/badge/Azure_Fundamentals_AZ--900-0078D4?style=for-the-badge)](https://www.credly.com/badges/e6d40b33-9857-42da-8046-99bc305c75c5/public_url)
+![ITIL v3 Foundation](https://img.shields.io/badge/ITIL_v3_Foundation-6C3483?style=for-the-badge)
+![TestComplete QA Architect](https://img.shields.io/badge/TestComplete_QA_Architect-FF7800?style=for-the-badge)
 
 ---
 
