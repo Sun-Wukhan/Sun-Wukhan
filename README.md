@@ -194,10 +194,10 @@ Click any empty square. It opens a pre-filled issue; press Submit and the board 
 | --- | --- | --- | --- |
 | **1** | [⬜](https://github.com/Sun-Wukhan/Sun-Wukhan/issues/new?title=ttt%3A%20move%20A1) | [⬜](https://github.com/Sun-Wukhan/Sun-Wukhan/issues/new?title=ttt%3A%20move%20B1) | [⬜](https://github.com/Sun-Wukhan/Sun-Wukhan/issues/new?title=ttt%3A%20move%20C1) |
 | **2** | [⬜](https://github.com/Sun-Wukhan/Sun-Wukhan/issues/new?title=ttt%3A%20move%20A2) | ❌ | [⬜](https://github.com/Sun-Wukhan/Sun-Wukhan/issues/new?title=ttt%3A%20move%20C2) |
-| **3** | [⬜](https://github.com/Sun-Wukhan/Sun-Wukhan/issues/new?title=ttt%3A%20move%20A3) | [⬜](https://github.com/Sun-Wukhan/Sun-Wukhan/issues/new?title=ttt%3A%20move%20B3) | [⬜](https://github.com/Sun-Wukhan/Sun-Wukhan/issues/new?title=ttt%3A%20move%20C3) |
+| **3** | [⬜](https://github.com/Sun-Wukhan/Sun-Wukhan/issues/new?title=ttt%3A%20move%20A3) | [⬜](https://github.com/Sun-Wukhan/Sun-Wukhan/issues/new?title=ttt%3A%20move%20B3) | ⭕ |
 
-**Turn:** ⭕ (O) to move · **Game #1**
-**Last move:** @Sun-Wukhan took B2 as X
+**Turn:** ❌ (X) to move · **Game #1**
+**Last move:** @okclifto took C3 as O
 
 **Scoreboard (wins):** no wins yet, be the first.
 **Draws:** 0

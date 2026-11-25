@@ -8,11 +8,11 @@
     "",
     "",
     "",
-    ""
+    "O"
   ],
   "draws": 0,
   "game_number": 1,
-  "last_move": "@Sun-Wukhan took B2 as X",
-  "turn": "O",
+  "last_move": "@okclifto took C3 as O",
+  "turn": "X",
   "wins": {}
 }
