@@ -1,0 +1,32 @@
+name: Toronto Weather
+
+on:
+  schedule:
+    # Once an hour, at 17 minutes past
+    - cron: "17 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  weather:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the profile repo
+        uses: actions/checkout@v4
+
+      - name: Regenerate the Toronto weather card
+        run: python3 scripts/weather.py
+
+      - name: Commit the card if it changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/weather.svg
+          if git diff --cached --quiet; then
+            echo "Weather card unchanged."
+          else
+            git commit -m "Update Toronto weather card"
+            git push
+          fi
