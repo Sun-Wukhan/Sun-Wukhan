@@ -239,6 +239,14 @@ Pull requests I have landed in other people's projects, verified against the Git
 
 </div>
 
+### 🏙️ Contribution City
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-gitblock.svg" alt="Contributions rendered as a 3D city skyline" />
+
+</div>
+
 ---
 
 ## 🐍 Contribution Snake
