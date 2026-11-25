@@ -8,6 +8,12 @@
 
 </div>
 
+<div align="center">
+
+<img src="assets/weather.svg" alt="Current weather in Toronto" />
+
+</div>
+
 ```console
 $ whoami
 navid-khan
@@ -177,6 +183,26 @@ Pull requests I have landed in other people's projects, verified against the Git
 </picture>
 
 </div>
+
+## 🎮 Tic-Tac-Toe: play against the internet
+
+Click any empty square. It opens a pre-filled issue; press Submit and the board updates itself. You are whoever's turn it is; wins are credited to your GitHub name.
+
+<!-- TTT:START -->
+
+| | A | B | C |
+| --- | --- | --- | --- |
+| **1** | [⬜](https://github.com/Sun-Wukhan/Sun-Wukhan/issues/new?title=ttt%3A%20move%20A1) | [⬜](https://github.com/Sun-Wukhan/Sun-Wukhan/issues/new?title=ttt%3A%20move%20B1) | [⬜](https://github.com/Sun-Wukhan/Sun-Wukhan/issues/new?title=ttt%3A%20move%20C1) |
+| **2** | [⬜](https://github.com/Sun-Wukhan/Sun-Wukhan/issues/new?title=ttt%3A%20move%20A2) | [⬜](https://github.com/Sun-Wukhan/Sun-Wukhan/issues/new?title=ttt%3A%20move%20B2) | [⬜](https://github.com/Sun-Wukhan/Sun-Wukhan/issues/new?title=ttt%3A%20move%20C2) |
+| **3** | [⬜](https://github.com/Sun-Wukhan/Sun-Wukhan/issues/new?title=ttt%3A%20move%20A3) | [⬜](https://github.com/Sun-Wukhan/Sun-Wukhan/issues/new?title=ttt%3A%20move%20B3) | [⬜](https://github.com/Sun-Wukhan/Sun-Wukhan/issues/new?title=ttt%3A%20move%20C3) |
+
+**Turn:** ❌ (X) to move · **Game #1**
+**Last move:** none yet
+
+**Scoreboard (wins):** no wins yet, be the first.
+**Draws:** 0
+
+<!-- TTT:END -->
 
 ---
 
