@@ -5,14 +5,14 @@
     "",
     "",
     "X",
-    "",
+    "O",
     "",
     "",
     "O"
   ],
   "draws": 0,
   "game_number": 1,
-  "last_move": "@Sun-Wukhan took A1 as X",
-  "turn": "O",
+  "last_move": "@Sun-Wukhan took C2 as O",
+  "turn": "X",
   "wins": {}
 }
