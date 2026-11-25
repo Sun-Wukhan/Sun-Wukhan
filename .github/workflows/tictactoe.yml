@@ -1,0 +1,46 @@
+name: Tic-Tac-Toe
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  move:
+    # Only run for game issues; every other issue is left completely alone.
+    if: startsWith(github.event.issue.title, 'ttt:')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the profile repo
+        uses: actions/checkout@v4
+
+      - name: Apply the move
+        env:
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_USER: ${{ github.event.issue.user.login }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: python3 scripts/ttt.py
+
+      - name: Commit the board if it changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md ttt/state.json
+          if git diff --cached --quiet; then
+            echo "Board unchanged."
+          else
+            git commit -m "Tic-tac-toe: move from issue #${{ github.event.issue.number }}"
+            git push
+          fi
+
+      - name: Reply on the issue and close it
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if [ -f ttt/reply.md ]; then
+            gh issue comment ${{ github.event.issue.number }} --body-file ttt/reply.md
+          fi
+          gh issue close ${{ github.event.issue.number }}
