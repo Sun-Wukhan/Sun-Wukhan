@@ -2,9 +2,9 @@
 
 <img src="assets/banner.svg" alt="Navid Khan: Platform / DevOps Engineer, Open Source Contributor, Toronto" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=560&lines=Platform+%2F+DevOps+Engineer;Software+Developer;QA+Automation+Engineer;FinOps+%26+AI%2FML+Builder;Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=560&lines=QA+Automation+Engineer;DevOps+Engineer;Software+Developer;ML+%2F+AI+Engineer;Solutions+Architect;Open+Source+Contributor" alt="Typing SVG" />
 
-**Toronto 🇨🇦 engineer working across platform/DevOps, software development, QA automation, FinOps, and AI/ML. I build infrastructure tooling, revive abandoned projects, and contribute to open source.**
+**Toronto 🇨🇦 engineer wearing five hats: QA automation, DevOps, software development, ML/AI, and architecture, with FinOps across all of it. I build infrastructure tooling, revive abandoned projects, and contribute to open source.**
 
 </div>
 
@@ -18,8 +18,8 @@
 $ whoami
 navid-khan
 $ navid --summary
-role       Platform / DevOps Engineer
-also       software development, QA automation, FinOps, AI/ML
+roles      QA Automation · DevOps · Developer · ML/AI · Architect
+also       FinOps and platform engineering across all of it
 location   Toronto, Canada
 code       Go · Python · TypeScript
 focus      Terraform, Kubernetes, test automation, cloud cost, AI tooling
@@ -30,10 +30,11 @@ currently  reviving Terraformer, hunting bugs with property-based tests
 
 ## 🧠 About Me
 
-- 🔧 Platform and DevOps engineering: cloud infrastructure, Kubernetes, and the tooling around them
+- 🔧 DevOps and platform engineering: cloud infrastructure, Kubernetes, and the tooling around them
 - 🧪 QA automation: Selenium and TestNG frameworks, CI test pipelines, and property-based testing
 - 💰 FinOps: cloud and AI spend visibility, budgets, and cost controls
 - 🤖 ML/AI: RAG pipelines, LLM tooling and evaluation, and AI cost governance
+- 🏛️ Architecture: system design for cloud platforms, test infrastructure, and AI tooling
 - 🐹 Mostly Go, Python, TypeScript, and Java these days
 - 🌍 Open-source contributor with merged PRs in projects like **external-dns**, **Argo CD**, **emissary-ingress**, **rclone**, **Prometheus**, and **Storybook**
 - 🛠️ I like tools that catch real bugs: property-based testing, security scanning, and CI gates
