@@ -2,9 +2,9 @@
 
 <img src="assets/banner.svg" alt="Navid Khan: Platform / DevOps Engineer, Open Source Contributor, Toronto" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=560&lines=Platform+%2F+DevOps+Engineer;Open+Source+Contributor;Terraform+%26+Kubernetes+tinkerer;Building+tools+that+ship" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=560&lines=Platform+%2F+DevOps+Engineer;Software+Developer;QA+Automation+Engineer;FinOps+%26+AI%2FML+Builder;Open+Source+Contributor" alt="Typing SVG" />
 
-**Platform / DevOps engineer in Toronto 🇨🇦, building infrastructure tooling, reviving abandoned projects, and contributing to open source.**
+**Toronto 🇨🇦 engineer working across platform/DevOps, software development, QA automation, FinOps, and AI/ML. I build infrastructure tooling, revive abandoned projects, and contribute to open source.**
 
 </div>
 
@@ -19,9 +19,10 @@ $ whoami
 navid-khan
 $ navid --summary
 role       Platform / DevOps Engineer
+also       software development, QA automation, FinOps, AI/ML
 location   Toronto, Canada
 code       Go · Python · TypeScript
-focus      Terraform, Kubernetes, CI gates, open source tooling
+focus      Terraform, Kubernetes, test automation, cloud cost, AI tooling
 currently  reviving Terraformer, hunting bugs with property-based tests
 ```
 
@@ -30,7 +31,10 @@ currently  reviving Terraformer, hunting bugs with property-based tests
 ## 🧠 About Me
 
 - 🔧 Platform and DevOps engineering: cloud infrastructure, Kubernetes, and the tooling around them
-- 🐹 Mostly Go, Python, and TypeScript these days
+- 🧪 QA automation: Selenium and TestNG frameworks, CI test pipelines, and property-based testing
+- 💰 FinOps: cloud and AI spend visibility, budgets, and cost controls
+- 🤖 ML/AI: RAG pipelines, LLM tooling and evaluation, and AI cost governance
+- 🐹 Mostly Go, Python, TypeScript, and Java these days
 - 🌍 Open-source contributor with merged PRs in projects like **external-dns**, **Argo CD**, **emissary-ingress**, **rclone**, **Prometheus**, and **Storybook**
 - 🛠️ I like tools that catch real bugs: property-based testing, security scanning, and CI gates
 - 🎯 Current focus: making infrastructure imports and CI checks boringly reliable
@@ -105,6 +109,14 @@ Pull requests I have landed in other people's projects, verified against the Git
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
+### 🧪 QA, FinOps & AI/ML
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![FinOps](https://img.shields.io/badge/FinOps-7aa2f7?style=for-the-badge)
+![RAG and LLMs](https://img.shields.io/badge/RAG_%26_LLMs-bb9af7?style=for-the-badge)
+
 ---
 
 ## 🔭 Currently Working On
@@ -129,6 +141,8 @@ Pull requests I have landed in other people's projects, verified against the Git
 
 - Terraform and importing real-world cloud infrastructure
 - Kubernetes, CI/CD, and GitHub Actions
+- Selenium, TestNG, and making test suites fast and trustworthy
+- Cloud and AI spend: FinOps, budgets, and cost visibility
 - Getting your first PR merged in a big open-source project
 
 ---
@@ -192,12 +206,12 @@ Click any empty square. It opens a pre-filled issue; press Submit and the board 
 
 | | A | B | C |
 | --- | --- | --- | --- |
-| **1** | ❌ | [⬜](https://github.com/Sun-Wukhan/Sun-Wukhan/issues/new?title=ttt%3A%20move%20B1) | [⬜](https://github.com/Sun-Wukhan/Sun-Wukhan/issues/new?title=ttt%3A%20move%20C1) |
-| **2** | [⬜](https://github.com/Sun-Wukhan/Sun-Wukhan/issues/new?title=ttt%3A%20move%20A2) | ❌ | ⭕ |
-| **3** | [⬜](https://github.com/Sun-Wukhan/Sun-Wukhan/issues/new?title=ttt%3A%20move%20A3) | [⬜](https://github.com/Sun-Wukhan/Sun-Wukhan/issues/new?title=ttt%3A%20move%20B3) | ⭕ |
+| **1** | [⬜](https://github.com/Sun-Wukhan/Sun-Wukhan/issues/new?title=ttt%3A%20move%20A1) | [⬜](https://github.com/Sun-Wukhan/Sun-Wukhan/issues/new?title=ttt%3A%20move%20B1) | [⬜](https://github.com/Sun-Wukhan/Sun-Wukhan/issues/new?title=ttt%3A%20move%20C1) |
+| **2** | [⬜](https://github.com/Sun-Wukhan/Sun-Wukhan/issues/new?title=ttt%3A%20move%20A2) | ❌ | [⬜](https://github.com/Sun-Wukhan/Sun-Wukhan/issues/new?title=ttt%3A%20move%20C2) |
+| **3** | [⬜](https://github.com/Sun-Wukhan/Sun-Wukhan/issues/new?title=ttt%3A%20move%20A3) | [⬜](https://github.com/Sun-Wukhan/Sun-Wukhan/issues/new?title=ttt%3A%20move%20B3) | [⬜](https://github.com/Sun-Wukhan/Sun-Wukhan/issues/new?title=ttt%3A%20move%20C3) |
 
-**Turn:** ❌ (X) to move · **Game #1**
-**Last move:** @Sun-Wukhan took C2 as O
+**Turn:** ⭕ (O) to move · **Game #1**
+**Last move:** @Sun-Wukhan took B2 as X
 
 **Scoreboard (wins):** no wins yet, be the first.
 **Draws:** 0

@@ -107,5 +107,5 @@
   <!-- name and tagline -->
   <text x="60" y="128" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="66" font-weight="700" fill="#c0caf5">Navid Khan</text>
   <rect x="62" y="146" width="330" height="5" rx="2.5" fill="url(#accent)"/>
-  <text x="62" y="188" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="24" fill="#7dcfff">Platform / DevOps Engineer · Open Source Contributor · Toronto</text>
+  <text x="62" y="188" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="24" fill="#7dcfff">DevOps · Development · QA Automation · FinOps · AI/ML</text>
 </svg>
