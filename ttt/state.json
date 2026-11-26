@@ -2,7 +2,7 @@
   "board": [
     "X",
     "",
-    "",
+    "X",
     "",
     "X",
     "O",
@@ -12,7 +12,7 @@
   ],
   "draws": 0,
   "game_number": 1,
-  "last_move": "@Sun-Wukhan took C2 as O",
-  "turn": "X",
+  "last_move": "@Sun-Wukhan took C1 as X",
+  "turn": "O",
   "wins": {}
 }
