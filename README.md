@@ -67,7 +67,7 @@ Pull requests I have landed in other people's projects, verified against the Git
 What I have been shipping lately, updated automatically:
 
 <!--START_SECTION:activity-->
-Fresh activity lands here on the next scheduled run.
+1. 💪 Opened PR [#10975](https://github.com/stanfordnlp/dspy/pull/10975) in [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)
 <!--END_SECTION:activity-->
 
 ## 🚀 Featured Projects
