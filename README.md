@@ -67,7 +67,7 @@ Pull requests I have landed in other people's projects, verified against the Git
 What I have been shipping lately, updated automatically:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10975](https://github.com/stanfordnlp/dspy/pull/10975) in [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)
+1. 💪 Opened PR [#22985](https://github.com/etcd-io/etcd/pull/22985) in [etcd-io/etcd](https://github.com/etcd-io/etcd)
 <!--END_SECTION:activity-->
 
 ## 🚀 Featured Projects
