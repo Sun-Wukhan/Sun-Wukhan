@@ -62,6 +62,14 @@ Pull requests I have landed in other people's projects, verified against the Git
 | [![Storybook](https://img.shields.io/badge/Storybook-2_merged-FF4785?style=flat-square&logo=storybook&logoColor=white)](https://github.com/storybookjs/storybook) | [#37348](https://github.com/storybookjs/storybook/pull/37348) · [#37374](https://github.com/storybookjs/storybook/pull/37374) |
 | [![Nx](https://img.shields.io/badge/Nx-1_merged-143055?style=flat-square&logo=nx&logoColor=white)](https://github.com/nrwl/nx) | [#37860](https://github.com/nrwl/nx/pull/37860) |
 
+## ⚡ Recent Activity
+
+What I have been shipping lately, updated automatically:
+
+<!--START_SECTION:activity-->
+Fresh activity lands here on the next scheduled run.
+<!--END_SECTION:activity-->
+
 ## 🚀 Featured Projects
 
 - **[Terraformer](https://github.com/Sun-Wukhan/terraformer)**: revived fork of Google's archived Terraformer (reverse Terraform: import existing cloud resources into HCL + state). Releases shipping, GCP / AWS / Azure coverage rebuilt
@@ -72,12 +80,12 @@ Pull requests I have landed in other people's projects, verified against the Git
 
 <table>
   <tr>
-    <td><a href="https://github.com/Sun-Wukhan/terraformer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sun-Wukhan&repo=terraformer&theme=tokyonight" alt="Terraformer repo card" /></a></td>
-    <td><a href="https://github.com/Sun-Wukhan/pickle-sentry"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sun-Wukhan&repo=pickle-sentry&theme=tokyonight" alt="pickle-sentry repo card" /></a></td>
+    <td><a href="https://github.com/Sun-Wukhan/terraformer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sun-Wukhan&repo=terraformer&theme=tokyonight" alt="Terraformer repo card" /></a><br /><img src="https://img.shields.io/github/v/release/Sun-Wukhan/terraformer?style=flat-square" alt="Terraformer latest release" /> <img src="https://img.shields.io/github/stars/Sun-Wukhan/terraformer?style=flat-square" alt="Terraformer stars" /> <img src="https://img.shields.io/github/last-commit/Sun-Wukhan/terraformer?style=flat-square" alt="Terraformer last commit" /></td>
+    <td><a href="https://github.com/Sun-Wukhan/pickle-sentry"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sun-Wukhan&repo=pickle-sentry&theme=tokyonight" alt="pickle-sentry repo card" /></a><br /><img src="https://img.shields.io/github/v/release/Sun-Wukhan/pickle-sentry?style=flat-square" alt="pickle-sentry latest release" /> <img src="https://img.shields.io/github/stars/Sun-Wukhan/pickle-sentry?style=flat-square" alt="pickle-sentry stars" /> <img src="https://img.shields.io/github/last-commit/Sun-Wukhan/pickle-sentry?style=flat-square" alt="pickle-sentry last commit" /></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Sun-Wukhan/pbt-sentry"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sun-Wukhan&repo=pbt-sentry&theme=tokyonight" alt="pbt-sentry repo card" /></a></td>
-    <td><a href="https://github.com/Sun-Wukhan/semantic-gate"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sun-Wukhan&repo=semantic-gate&theme=tokyonight" alt="semantic-gate repo card" /></a></td>
+    <td><a href="https://github.com/Sun-Wukhan/pbt-sentry"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sun-Wukhan&repo=pbt-sentry&theme=tokyonight" alt="pbt-sentry repo card" /></a><br /><img src="https://img.shields.io/github/v/release/Sun-Wukhan/pbt-sentry?style=flat-square" alt="pbt-sentry latest release" /> <img src="https://img.shields.io/github/stars/Sun-Wukhan/pbt-sentry?style=flat-square" alt="pbt-sentry stars" /> <img src="https://img.shields.io/github/last-commit/Sun-Wukhan/pbt-sentry?style=flat-square" alt="pbt-sentry last commit" /></td>
+    <td><a href="https://github.com/Sun-Wukhan/semantic-gate"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sun-Wukhan&repo=semantic-gate&theme=tokyonight" alt="semantic-gate repo card" /></a><br /><img src="https://img.shields.io/github/v/release/Sun-Wukhan/semantic-gate?style=flat-square" alt="semantic-gate latest release" /> <img src="https://img.shields.io/github/stars/Sun-Wukhan/semantic-gate?style=flat-square" alt="semantic-gate stars" /> <img src="https://img.shields.io/github/last-commit/Sun-Wukhan/semantic-gate?style=flat-square" alt="semantic-gate last commit" /></td>
   </tr>
 </table>
 
