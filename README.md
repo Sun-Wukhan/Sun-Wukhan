@@ -67,7 +67,7 @@ Pull requests I have landed in other people's projects, verified against the Git
 What I have been shipping lately, updated automatically:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9029](https://github.com/prometheus-operator/prometheus-operator/pull/9029#issuecomment-7228540078) in [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator)
+1. 💪 Opened PR [#3439](https://github.com/googleapis/python-genai/pull/3439) in [googleapis/python-genai](https://github.com/googleapis/python-genai)
 <!--END_SECTION:activity-->
 
 ## 🚀 Featured Projects
